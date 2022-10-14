@@ -15,3 +15,13 @@ Checkout tells us to go to a different place
 git checkout -b <name of your branch>
 
 example: git checkout -b ds-first-branch
+
+Git add and git  commit combined
+git commit -am "updated a file"
+
+To list all branches on local
+hit Q when done viewing the branches
+git branch
+
+To push to a branch
+git push origin <branch name>
