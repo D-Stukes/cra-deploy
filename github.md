@@ -25,3 +25,11 @@ git branch
 
 To push to a branch
 git push origin <branch name>
+   example:  cra-deploy git:(ds-first-branch) git push origin ds-first-branch
+
+   git checkout <name of branch> without the b switch - allows you to look at a branch and literally check it out - view it
+
+git checkout -  takes you to the last branch you were on
+
+git pull origin main  
+Do this after you merge on Github and before you add anything to your main branch
